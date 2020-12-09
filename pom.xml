@@ -31,8 +31,7 @@
   </dependencies>
   <build>
     <finalName>simpleweb</finalName>
-  </build>
-  <plugins>
+    <plugins>
    <plugin>
     <artifactId>maven-compiler-plugin</artifactId>
     <version>3.3</version>
@@ -42,4 +41,5 @@
     </configuration>
    </plugin>
   </plugins>
+  </build>
 </project>
